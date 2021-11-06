@@ -10,7 +10,7 @@ August 5 2021
 # Privacy Policy
 <br>
 
- We truly can't thank you enough for choosing to be a part of our community. We are committed to protecting your personal information and your right to privacy, for we believe privacy is a fundamental human right. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at svalinndev@icloud.com.
+ We truly can't thank you enough for choosing to be a part of our community. We are committed to protecting your personal information and your right to privacy, for we believe privacy is a fundamental human right. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at contactowoextension@gmail.com.
 
  When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -26,8 +26,6 @@ Information collected through our App In Short: We collect information regarding
 
 • Push Notifications. We may request to send you push notifications regarding certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
-
-• Purchase History. We may request access to your purchase history for certain features of the App. The App offers optional in-app purchases. In order to grant access to the in-app purchase content, we require access to your purchase history. The App uses RevenueCat to manage in-app purchases. RevenueCat's privacy policy can be found at https://www.revenuecat.com/privacy.
 
 <br>
 
@@ -49,6 +47,6 @@ This privacy policy relates solely to this Application.
 
 ## How Can You Contact Us About This Notice?
 <br>
-If you have any questions or comments about this notice, you may email us at contactsvalinn@gmail.com.
+If you have any questions or comments about this notice, you may email us at contactowoextension@gmail.com.
 
 <br>
