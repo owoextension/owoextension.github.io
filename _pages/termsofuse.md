@@ -5,12 +5,12 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 5 2021
+November 6 2021
 
 # Terms Of Use
 <br>
 
- These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "Svalinn" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.
+ These terms and conditions ("Agreement") set forth the general terms and conditions of your use of the "OwO Extension for Safari" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Mobile Application and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.
 
  <br>
 
@@ -56,15 +56,15 @@ The formation, interpretation, and performance of this Agreement and any dispute
 
 <br>
 
-## In-App Purchases
+## Purchases
 <br>
-Optional in-app purchase "Tip Jar" is available. Your in-app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that Svalinn is not required to provide a refund for any reason. Svalinn may change, modify, or eliminate features of the in-app purchase at any time, with or without notice. You agree that Svalinn will bear no liability to you or any third party if we do so.
+Your app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that I am not required to provide a refund for any reason. I may change, modify, or eliminate features of the app at any time, with or without notice. You agree that I will bear no liability to you or any third party if I do so.
 
 <br>
 
 ## Intellectual Property
 <br>
-The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of the Application provided by Svalinn are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any content that are provided and owned by Users, all materials contained on the Application are the property of Svalinn or its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names are proprietary to Svalinn or its affiliates and/or third-party licensors. Except as expressly authorized, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the materials. We reserve all rights not expressly granted in the Terms.
+The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of the Application provided by Jack Minehan are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any content that are provided and owned by Users, all materials contained on the Application are the property of Jack Minehan or its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names are proprietary to Jack Minehan or its affiliates and/or third-party licensors. Except as expressly authorized, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the materials. We reserve all rights not expressly granted in the Terms.
 
 <br>
 
@@ -83,6 +83,6 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 ## Contacting Us
 <br>
 
-If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contactsvalinn@gmail.com.
+If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contactowoextension@gmail.com.
 
 <br>
