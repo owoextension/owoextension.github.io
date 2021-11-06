@@ -58,7 +58,7 @@ The formation, interpretation, and performance of this Agreement and any dispute
 
 ## Purchases
 <br>
-Your app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that I am not required to provide a refund for any reason. I may change, modify, or eliminate features of the app at any time, with or without notice. You agree that I will bear no liability to you or any third party if I do so.
+Your app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that we are not required to provide a refund for any reason. We may change, modify, or eliminate features of the app at any time, with or without notice. You agree that we will bear no liability to you or any third party if we do so.
 
 <br>
 
